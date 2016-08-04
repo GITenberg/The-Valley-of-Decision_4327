@@ -1,0 +1,37 @@
+_repo: The-Valley-of-Decision_4327
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Olivieri, David
+    - Wharton, Edith Newbold Jones
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: Life at Pontesordo was in truth not very pleasant for an ardent and sensitive
+  little boy of nine, whose remote connection with the reigning line of Pianura did
+  not preserve him from wearing torn clothes and eating black bread and beans out
+  of an earthen bowl on the kitchen doorstep. "Go ask your mother for new clothes!"
+  Filomena would snap at him, when his toes came through his shoes and the rents in
+  his jacket-sleeves had spread beyond darning. "These you are wearing are my Giannozzo's,
+  as you well know, and every rag on your back is mine, if there were any law for
+  poor folk, f.
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Valley of Decision
+url: http://www.gutenberg.org/ebooks/4327
