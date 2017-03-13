@@ -1,5 +1,8 @@
 _repo: The-Valley-of-Decision_4327
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wharton, Edith
@@ -21,6 +24,8 @@ description: Life at Pontesordo was in truth not very pleasant for an ardent and
   his jacket-sleeves had spread beyond darning. "These you are wearing are my Giannozzo's,
   as you well know, and every rag on your back is mine, if there were any law for
   poor folk, f.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4327#The-Valley-of-Decision
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
